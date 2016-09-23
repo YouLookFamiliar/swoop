@@ -1,0 +1,21 @@
+sudo: required
+language: python
+
+addons:
+    apt:
+        packages:
+        - build-essential
+        - gfortran
+        - libatlas-base-dev
+        - libopenblas-dev
+        - python-dev
+        - g++
+
+env:
+    - PY_VER=py27
+
+install:
+    - pip install tox
+
+script:
+    - tox -e $PY_VER
