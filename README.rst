@@ -5,6 +5,7 @@ Swoopi Documentation
 
 Camera interactions for the Raspberry Pi.
 
+Full documentation available on: https://swoopi.readthedocs.io/
 
 License
 -------
@@ -23,7 +24,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-The License can also be obtained from here. If you are reading this
+The License can also be obtained from `here`_. If you are reading this
 document from the project source code, the License can be found in
 ``LICENSE.txt``.
 
@@ -34,3 +35,5 @@ document from the project source code, the License can be found in
 
 .. |Coveralls| image:: https://img.shields.io/coveralls/swoopi/swoopi/master.svg?maxAge=3600?style=flat-square
 .. _Coveralls: https://coveralls.io/github/swoopi/swoopi?branch=master
+
+.. _here: https://swoopi.readthedocs.io/en/latest/license.html
