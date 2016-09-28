@@ -1,7 +1,7 @@
 Swoopi Documentation
 ====================
 
-|Travis|_ |Coveralls|_
+|Travis| |Coveralls| |Docs|
 
 Camera interactions for the Raspberry Pi.
 
@@ -30,10 +30,16 @@ document from the project source code, the License can be found in
 
 .. |Year| date:: %Y
 
-.. |Travis| image:: https://img.shields.io/travis/swoopi/swoopi/master.svg?maxAge=3600?style=flat-square
-.. _Travis: https://travis-ci.org/swoopi/swoopi
+.. |Travis| image:: https://img.shields.io/travis/swoopi/swoopi/master.svg?maxAge=3600&style=flat-square
+   :alt: Build Status
+   :target: https://travis-ci.org/swoopi/swoopi
 
-.. |Coveralls| image:: https://img.shields.io/coveralls/swoopi/swoopi/master.svg?maxAge=3600?style=flat-square
-.. _Coveralls: https://coveralls.io/github/swoopi/swoopi?branch=master
+.. |Coveralls| image:: https://img.shields.io/coveralls/swoopi/swoopi/master.svg?maxAge=3600&style=flat-square
+   :alt: Build Coverage
+   :target: https://coveralls.io/github/swoopi/swoopi?branch=master
+
+.. |Docs| image:: https://readthedocs.org/projects/swoopi/badge/?version=latest&style=flat-square
+   :alt: Documentation Version
+   :target: http://swoopi.readthedocs.io/en/latest/?badge=latest
 
 .. _here: https://swoopi.readthedocs.io/en/latest/license.html
