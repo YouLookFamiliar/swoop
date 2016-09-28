@@ -12,10 +12,11 @@ addons:
         - g++
 
 env:
-    - PY_VER=py27
+    - TOXENV=py27
+    - TOXENV=docs
 
 install:
     - pip install tox
 
 script:
-    - tox -e $PY_VER
+    - tox
