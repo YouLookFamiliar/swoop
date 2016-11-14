@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Swoopi'
+project = u'Swoop'
 copyright = u'2016, Minn Soe. Licensed under the Apache License, Version 2.0'
 author = u'Minn Soe'
 
@@ -139,7 +139,7 @@ html_theme = 'sphinx_rtd_theme'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'Swoopi v0.0.1'
+# html_title = u'Swoop v0.0.1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -239,7 +239,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Swoopidoc'
+htmlhelp_basename = 'Swoopdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -265,7 +265,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Swoopi.tex', u'Swoopi Documentation',
+    (master_doc, 'Swoop.tex', u'Swoop Documentation',
      u'Minn Soe', 'manual'),
 ]
 
@@ -307,7 +307,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'swoopi', u'Swoopi Documentation',
+    (master_doc, 'swoop', u'Swoop Documentation',
      [author], 1)
 ]
 
@@ -322,8 +322,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, 2description, category)
 texinfo_documents = [
-    (master_doc, 'Swoopi', u'Swoopi Documentation',
-     author, 'Swoopi', 'One line description of project.',
+    (master_doc, 'Swoop', u'Swoop Documentation',
+     author, 'Swoop', 'One line description of project.',
      'Miscellaneous'),
 ]
 
