@@ -3,7 +3,7 @@ Swoop
 
 |Travis| |Coveralls| |Docs|
 
-> For keeping track of sightings over time.
+For keeping track of sightings over time.
 
 Full documentation available on: https://swoopi.readthedocs.io/
 
