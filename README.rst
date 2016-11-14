@@ -1,9 +1,9 @@
-Swoopi Documentation
-====================
+Swoop
+=====
 
 |Travis| |Coveralls| |Docs|
 
-Camera interactions for the Raspberry Pi.
+> For keeping track of sightings over time.
 
 Full documentation available on: https://swoopi.readthedocs.io/
 
