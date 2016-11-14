@@ -5,7 +5,7 @@ Swoop
 
 For keeping track of sightings over time.
 
-Full documentation available on: https://swoopi.readthedocs.io/
+Full documentation available on: https://swoop.readthedocs.io/
 
 License
 -------
@@ -30,16 +30,16 @@ document from the project source code, the License can be found in
 
 .. |Year| date:: %Y
 
-.. |Travis| image:: https://img.shields.io/travis/swoopi/swoopi/master.svg?maxAge=3600&style=flat-square
+.. |Travis| image:: https://img.shields.io/travis/YouLookFamiliar/swoop/master.svg?maxAge=3600&style=flat-square
    :alt: Build Status
-   :target: https://travis-ci.org/swoopi/swoopi
+   :target: https://travis-ci.org/YouLookFamiliar/swoop
 
-.. |Coveralls| image:: https://img.shields.io/coveralls/swoopi/swoopi/master.svg?maxAge=3600&style=flat-square
+.. |Coveralls| image:: https://img.shields.io/coveralls/YouLookFamiliar/swoop/master.svg?maxAge=3600&style=flat-square
    :alt: Build Coverage
-   :target: https://coveralls.io/github/swoopi/swoopi?branch=master
+   :target: https://coveralls.io/github/YouLookFamiliar/swoop?branch=master
 
-.. |Docs| image:: https://readthedocs.org/projects/swoopi/badge/?version=latest&style=flat-square
+.. |Docs| image:: https://readthedocs.org/projects/swoop/badge/?version=latest&style=flat-square
    :alt: Documentation Version
-   :target: http://swoopi.readthedocs.io/en/latest/?badge=latest
+   :target: http://swoop.readthedocs.io/en/latest/?badge=latest
 
-.. _here: https://swoopi.readthedocs.io/en/latest/license.html
+.. _here: https://swoop.readthedocs.io/en/latest/license.html
